@@ -1,2 +1,1 @@
-# dogs
-Dogs
+Hand picked, artisan, esoteric dog pictures.
